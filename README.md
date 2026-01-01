@@ -1,3 +1,8 @@
+#  Hi 👋, I'm Saheb Sen 
+**MERN Stack Developer | React · Node · MongoDB| with knowlage of all the technologies below**
+
+Open to internships, projects, and collaborations
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saheb-sen-982909323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saheb.zerosix@gmail.com ) 
