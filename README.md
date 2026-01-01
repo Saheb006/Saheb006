@@ -16,6 +16,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3"/>
 </div>
 
+## Let's connect 
+<div align="center">
+<a href="https://linkedin.com/in/sahebsen06" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+
 
 
 ## 💻 Tech Stack
