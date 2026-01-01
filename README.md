@@ -1,10 +1,21 @@
 # Hi 👋, I'm Saheb Sen
 **Full-Stack Web Developer (MERN) | Exploring AI/ML**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3"/>
+</div>
+
+
+# About Me:
 
 - 💻 MERN Stack Developer working with React, Node.js & MongoDB
-- 🧠 Focused on building scalable full-stack applications
+- 🧠 Focused on building scalable full-stack web applications
 - 🌱 Continuously improving backend architecture skills
 - 🚀 Open to internships, projects, and remote opportunities
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3"/>
+</div>
+
 
 
 ## 💻 Tech Stack
